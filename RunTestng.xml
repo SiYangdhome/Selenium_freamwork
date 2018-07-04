@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Default Suite">
+<suite name="Default Suite" thread-count="3">
   <test name="Selenium_Freamwork_test">
     <classes>
-      <class name="com.siyang.freamwork.SeleniumDriverTest">
-
-
+      <class name="com.siyang.freamwork.SeleniumDriverTest"/>
+      <class name="com.siyang.element.FindElementsTest"/>
+      <class name="com.siyang.element.FindElementTest">
       </class> <!-- com.siyang.freamwork.SeleniumDriverTest -->
     </classes>
   </test> <!-- Selenium_Freamwork_test -->
