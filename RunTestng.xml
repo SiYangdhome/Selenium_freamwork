@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="Selenium_Freamwork_test">
+    <classes>
+      <class name="com.siyang.freamwork.SeleniumDriverTest">
+
+
+      </class> <!-- com.siyang.freamwork.SeleniumDriverTest -->
+    </classes>
+  </test> <!-- Selenium_Freamwork_test -->
+</suite> <!-- Default Suite -->
