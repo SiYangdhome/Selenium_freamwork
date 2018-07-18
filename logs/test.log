@@ -1,0 +1,30 @@
+2018-07-17 16:18:25,354 INFO main [com.siyang.log4jTest.logTest]info(line:38)这是info日志
+2018-07-17 16:18:25,359 ERROR main [com.siyang.log4jTest.logTest]error(line:51)这是error日志
+2018-07-17 16:18:55,042 INFO main [com.siyang.log4jTest.logTest]info(line:38)这是info日志
+2018-07-17 16:18:55,045 ERROR main [com.siyang.log4jTest.logTest]error(line:51)这是error日志
+2018-07-17 16:19:38,413 INFO main [com.siyang.log4jTest.logTest]info(line:38)这是info日志
+2018-07-17 16:19:38,417 ERROR main [com.siyang.log4jTest.logTest]error(line:51)这是error日志
+2018-07-17 16:43:55,731 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)获取的网址：https://www.baidu.com/
+2018-07-17 16:43:55,924 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)在文本框输入：小土科技
+2018-07-17 16:43:56,017 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)点击：By.id: su
+2018-07-17 16:47:41,275 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)获取的网址：https://www.baidu.com/
+2018-07-17 16:47:41,445 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)在文本框输入：小土科技
+2018-07-17 16:47:41,557 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)点击：[[ChromeDriver: chrome on XP (064697a0bc36d71785191af9261acb41)] -> id: su]
+2018-07-17 16:50:44,496 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)获取的网址：https://www.baidu.com/
+2018-07-17 16:50:44,692 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)在文本框输入：小土科技
+2018-07-17 16:50:44,824 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)点击：
+2018-07-17 16:54:45,210 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)获取的网址：https://www.baidu.com/
+2018-07-17 16:54:45,392 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:38)在文本框输入：小土科技
+2018-07-17 17:20:31,000 INFO main [com.siyang.log4jTest.logTest]info(line:38)这是info日志
+2018-07-17 17:20:31,004 ERROR main [com.siyang.log4jTest.logTest]error(line:51)这是error日志
+2018-07-18 10:31:05,085 INFO main [com.siyang.tools.RandomNum]info(line:38)
+2018-07-18 10:32:29,333 INFO main [com.siyang.tools.RandomNum]info(line:38)
+2018-07-18 10:41:36,097 INFO main [com.siyang.tools.RandomNum]info(line:38)46981
+2018-07-18 10:41:42,613 INFO main [com.siyang.tools.RandomNum]info(line:38)74920
+2018-07-18 10:42:17,497 INFO main [com.siyang.tools.RandomNum]info(line:38)95502
+2018-07-18 16:47:49,172 INFO main [com.siyang.tools.RandomNum]info(line:38)15
+2018-07-18 16:47:54,962 INFO main [com.siyang.tools.RandomNum]info(line:38)8
+2018-07-18 16:48:00,665 INFO main [com.siyang.tools.RandomNum]info(line:38)6
+2018-07-18 16:48:03,464 INFO main [com.siyang.tools.RandomNum]info(line:38)11
+2018-07-18 16:48:05,887 INFO main [com.siyang.tools.RandomNum]info(line:38)8
+2018-07-18 16:48:08,860 INFO main [com.siyang.tools.RandomNum]info(line:38)9
