@@ -6,7 +6,7 @@ public class SeleniumDriverTest extends SeleniumDriver {
 
   @Test
     public void OpenBrowser()  {
-       SeleniumDriver.open("chrome");
+       SeleniumDriver.open("chrome11");
        SeleniumDriver.closedAll();
 
   }
