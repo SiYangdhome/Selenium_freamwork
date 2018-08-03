@@ -14,7 +14,7 @@ import java.util.List;
 
 public class MyActions {
 
-    final static LoggerControler log = LoggerControler.getlogger(MyActions.class);
+    final static LoggerControler log = LoggerControler.getloggerTest(MyActions.class);
     //点击方法
     public static void click(By by){
 

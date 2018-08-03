@@ -1,8 +1,6 @@
 package com.siyang.actions;
 
-import com.siyang.element.FindElement;
 import com.siyang.freamwork.SeleniumDriver;
-import com.siyang.log4j.LoggerControler;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -36,6 +34,7 @@ public class MyActionsTest extends SeleniumDriver{
         MyActions.sendtext(By.id("kw"),"小土科技");
         MyActions.click(By.id("su"));
         SeleniumDriver.closed();
+
     }
 
     @Test

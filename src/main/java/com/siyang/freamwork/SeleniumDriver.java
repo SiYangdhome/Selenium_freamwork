@@ -10,7 +10,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class SeleniumDriver {
 
-     final static LoggerControler log = LoggerControler.getlogger(SeleniumDriver.class);
+     final static LoggerControler log = LoggerControler.getloggerTest(SeleniumDriver.class);
 
     public static WebDriver driver;
 

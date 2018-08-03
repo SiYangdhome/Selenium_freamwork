@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class logTest {
 
 
-       final static LoggerControler log =  LoggerControler.getlogger(logTest.class);
+      final static LoggerControler log =  LoggerControler.getloggerTest(logTest.class);
 
      @Test
     public void logcaseTest(){
@@ -14,4 +14,5 @@ public class logTest {
          log.debug("这是debug日志");
          log.error("这是error日志");
      }
+
 }

@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class RandomNum {
 
-    final static LoggerControler log = LoggerControler.getlogger(RandomNum.class);
+    final static LoggerControler log = LoggerControler.getloggerTest(RandomNum.class);
 
     //封装生成N位随机数
 
@@ -14,7 +14,7 @@ public class RandomNum {
 
         String num  = "";
 
-        // random() 生成一个【0,1）直接的随机数,(取整数部分，按输入参数确定保留几位整数）
+        // random() 生成一个【0,1）之间的随机数,(取整数部分，按输入参数确定保留几位整数）
 
         num =String.valueOf((long)(Math.random()*Math.pow(10,length)));
         log.info(num);

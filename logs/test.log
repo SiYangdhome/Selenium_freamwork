@@ -28,3 +28,10 @@
 2018-07-18 16:48:03,464 INFO main [com.siyang.tools.RandomNum]info(line:38)11
 2018-07-18 16:48:05,887 INFO main [com.siyang.tools.RandomNum]info(line:38)8
 2018-07-18 16:48:08,860 INFO main [com.siyang.tools.RandomNum]info(line:38)9
+2018-07-31 15:03:40,045 INFO main [com.siyang.log4jTest.logTest]info(line:37)这是info日志
+2018-07-31 15:03:40,052 ERROR main [com.siyang.log4jTest.logTest]error(line:50)这是error日志
+2018-07-31 15:15:39,664 INFO main [com.siyang.log4jTest.logTest]info(line:37)这是info日志
+2018-07-31 15:15:39,668 ERROR main [com.siyang.log4jTest.logTest]error(line:50)这是error日志
+2018-07-31 15:16:32,051 INFO main [com.siyang.tools.RandomNum]info(line:37)41943
+2018-07-31 15:18:37,844 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:37)点击：By.linkText: 新闻
+2018-07-31 15:23:13,832 INFO main [com.siyang.freamwork.SeleniumDriver]info(line:37)通过：By.xpath: //*[@id="u1"]/a定位

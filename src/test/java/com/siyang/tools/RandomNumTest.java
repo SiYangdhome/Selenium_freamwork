@@ -13,4 +13,7 @@ public class RandomNumTest {
     public void GetNumTest1(){
         RandomNum.GetRandomNum(5,15);
     }
+
+
+
 }

@@ -1,6 +1,5 @@
 package com.siyang.log4j;
 
-import org.apache.http.impl.io.IdentityInputStream;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
@@ -14,7 +13,7 @@ public class LoggerControler {
     private static Logger logger = null;
     private static LoggerControler logg = null;
 
-    public static LoggerControler getlogger(Class<?> T){
+    public static LoggerControler getloggerTest(Class<?> T){
         if (logger == null){
     // 实例化Properties类，为了处理 .properties格式的文件
             Properties pro = new Properties();
